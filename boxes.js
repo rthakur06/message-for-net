@@ -12,14 +12,14 @@ const GiftBoxes = {
             caption: 'Because every day with you deserves a little extra color.'
         },
         {
-            emoji: '🍬',
-            title: 'PB&J M&Ms',
-            caption: 'Because you love PB&Js… and now they love you back.'
+            emoji: '🍦',
+            title: 'Ice Cream',
+            caption: 'Because you love Ice Cream… and now it loves you back.'
         },
         {
             emoji: '🍓',
-            title: 'Chocolate covered raspberries',
-            caption: 'Because berries are good, but berries in chocolate are elite.'
+            title: 'Fruit Tart',
+            caption: 'Because berries are good, but with added sugar is even better.'
         }
     ],
 
